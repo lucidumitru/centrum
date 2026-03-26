@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcentrum=globalThis.webpackChunkcentrum||[]).push([[1903],{1912(t){t.exports=JSON.parse('{"blogBasePath":"/centrum/blog","blogTitle":"Blog","authorsListPath":"/centrum/blog/authors"}')}}]);
