@@ -47,7 +47,7 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
+/*        blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -62,6 +62,7 @@ const config: Config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+*/
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -76,24 +77,39 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Centrum',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+/*        src: 'img/logo.svg', */
+          src: 'img/centrum_logo_svg_final.svg',
+            width: 50,
+            height: 50,
       },
       items: [
+
+
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Truse',
         },
+
+
+/*
         {to: '/blog', label: 'Blog', position: 'left'},
+
+*/
+
+
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://www.drugon.ro',
+          label: 'Magazin Online',
           position: 'right',
         },
+
+
+
       ],
     },
     footer: {
