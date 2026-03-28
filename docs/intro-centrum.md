@@ -5,11 +5,11 @@ sidebar_position: 1
 # Centrum Info
 
 
-Bine ai venit pe ***Centrum Info!!!***
 
 
+<div class="alert alert--warning" role="alert">
 
-***Aici vei găsi detalii tehnice, instrucțiuni de utilizare și descrieri complete referitoare la:***
+🤔 ***Oare ce găsesc în Centrum Info?***
 
 
 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
@@ -21,6 +21,163 @@ Bine ai venit pe ***Centrum Info!!!***
 
 
 
-După ce te vei familiariza cu produsele noastre, poți merge la magazinul nostru online [eCentrum](https://drugon.ro/) să le achiziționezi!
+</div>
+
+
+
+
+<br></br>
+
+
+<div class="alert alert--info" role="alert">
+
+
+🤠 ***Oare ce găsesc în Centrum Info?***
+
+
+🎻 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
+
+📝 [***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
+
+
+🔥 [***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+
+
+
+</div>
+
+
+
+
+<br></br>
+
+
+
+
+<div class="alert alert--danger" role="alert">
+
+
+🔥 ***Oare ce găsesc în Centrum Info?***
+
+
+🎻 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
+
+📝 [***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
+
+
+📚 [***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+
+
+
+
+
+
+</div>
+
+
+
+<br></br>
+
+
+
+
+
+<div class="alert alert--success" role="alert">
+
+
+👀 ***Oare ce găsesc în Centrum Info?***
+
+
+🎻 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
+
+📝 [***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
+
+
+🔥 [***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+
+
+
+</div>
+
+
+
+<br></br>
+
+
+
+
+
+<div class="alert alert--secondary" role="alert">
+
+🔦 **Observație**
+
+După ce te vei familiariza cu produsele noastre, poți merge la magazinul nostru online [***eCentrum***](https://drugon.ro/) să le achiziționezi!
+
+
+</div>
+
+
+
+
+
+<br></br>
+
+
+
+
+<div class="alert alert--primary" role="alert">
+
+
+
+[***De aici puteti lua simboluri de pus pe site***](https://www.symbolspy.com/)
+
+
+[***Si de aici puteti lua simboluri de pus pe site***](https://www.w3schools.com/tools/tool_emoji_picker.php/)
+
+
+
+</div>
+
+
+
+<br></br>
+
+
+<details>
+  <summary>**Detalii tehnice Centrum:**</summary>
+  <div>
+
+
+[***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
+
+[***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
+
+
+[***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+
+
+
+  </div>
+</details>
+
+
+<br></br>
+
+
+
+<details>
+  <summary>Toggle me!</summary>
+  <div>
+    <div>This is the detailed content</div>
+    <br/>
+    <details>
+      <summary>
+        Nested toggle! Some surprise inside...
+      </summary>
+      <div>😲😲😲😲😲</div>
+    </details>
+  </div>
+</details>
+
 
 
