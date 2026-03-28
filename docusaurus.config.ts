@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Centrum',
+  title: 'Centrum Info',
   tagline: 'Materiale didactice',
   favicon: 'img/favicon.ico',
 
@@ -77,7 +77,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Centrum',
+      title: 'Centrum Info',
       logo: {
         alt: 'My Site Logo',
 /*        src: 'img/logo.svg', */
@@ -87,20 +87,19 @@ const config: Config = {
       },
       items: [
 
-
+/*
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Truse',
+          label: 'Truse Experimente',
         },
-
-
-/*
         {to: '/blog', label: 'Blog', position: 'left'},
 
 */
-
+        {to: '/docs/materiale-didactice/intro-materiale-didactice', label: 'Materiale didactice', position: 'left'},
+        {to: '/docs/truse-de-experimente/intro-truse-de-experimente', label: 'Truse experimente', position: 'left'},
+        {to: '/docs/birotica-si-papetarie/intro-birotica-si-papetarie', label: 'Birotică', position: 'left'},
 
         {
           href: 'https://www.drugon.ro',
@@ -116,21 +115,22 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Centrum Info',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Ce vă oferă Centrum Info',
+              to: '/docs/intro-centrum',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Drugon',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Magazin Online',
+              href: 'https://www.drugon.ro',
             },
+/*
             {
               label: 'Discord',
               href: 'https://discordapp.com/invite/docusaurus',
@@ -139,8 +139,10 @@ const config: Config = {
               label: 'X',
               href: 'https://x.com/docusaurus',
             },
+*/
           ],
         },
+/*
         {
           title: 'More',
           items: [
@@ -148,14 +150,16 @@ const config: Config = {
               label: 'Blog',
               to: '/blog',
             },
+
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
+ */
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Centrum`,
     },
     prism: {
       theme: prismThemes.github,

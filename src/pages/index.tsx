@@ -20,8 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Apasă aici si alege trusa de experimente
+            to="/docs/intro-centrum">
+            Vezi oferta Centrum Info
           </Link>
         </div>
       </div>
