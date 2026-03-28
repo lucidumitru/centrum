@@ -87,3 +87,40 @@ html[data-theme='dark'] {
 }
 
 }
+
+
+
+
+/* Pentru poze aliniate la stanga     */
+.img-responsive4 {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  margin: 0px auto;
+  cursor: zoom-in;
+}
+
+
+
+
+/* video */
+.video-responsive {
+  break-inside: avoid;
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.video-frame {
+  position: relative;
+  padding-bottom: 56.25%;
+  width: 100%;
+}
+
+.video-frame iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

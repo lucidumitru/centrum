@@ -5,8 +5,23 @@ sidebar_position: 1
 # I.1. Materialele didactice din Centrum
 
 
+import Img from '@site/src/components/Img'
+import Video from '@site/src/components/Video'
 
-:::info[Ce vă oferă Centrum ?]
+
+
+
+
+
+
+<div class="alert alert--info" role="alert">
+
+***Ce vă oferă Centrum ?***
+
+
+
+<Img className="img-responsive4" src="materiale-didactice/materiale-didactice-poza1-centrum_v2.png" width="1000" height="667" lazy={false} />
+
 
 
 **Centrum** vă pune la dispoziție o gamă largă de materiale didactice organizate pe următoarele categorii:
@@ -18,6 +33,12 @@ sidebar_position: 1
 - Materiale didactice pentru facultate
 
 
-:::
+
+
+
+
+
+
+</div>
 
 

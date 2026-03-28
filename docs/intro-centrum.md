@@ -6,10 +6,26 @@ sidebar_position: 1
 
 
 
+import Img from '@site/src/components/Img'
+import Video from '@site/src/components/Video'
+
+
 
 <div class="alert alert--warning" role="alert">
 
 🤔 ***Oare ce găsesc în Centrum Info?***
+
+
+<Img className="img-responsive4" src="materiale-didactice/materiale-didactice-poza1-centrum_v2.png" width="1000" height="667" lazy={false} />
+
+<br></br>
+<br></br>
+
+
+
+
+<Video src="https://www.youtube.com/embed/LBAQ6IyQGHY" lazy={false} />
+
 
 
 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
