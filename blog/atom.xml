@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lucidumitru.github.io/centrum/blog</id>
-    <title>Centrum Blog</title>
+    <title>Centrum Info Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lucidumitru.github.io/centrum/blog"/>
-    <subtitle>Centrum Blog</subtitle>
+    <subtitle>Centrum Info Blog</subtitle>
     <icon>https://lucidumitru.github.io/centrum/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
