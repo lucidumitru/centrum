@@ -6,7 +6,7 @@ sidebar_position: 1
 
 
 
-:::info[Ce vă oferă Centrum?]
+:::info[Ce vă oferă Centrum ?]
 
 
 **Centrum** vă pune la dispoziție o gamă largă de materiale didactice organizate pe următoarele categorii:
