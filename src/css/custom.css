@@ -124,3 +124,27 @@ html[data-theme='dark'] {
   width: 100%;
   height: 100%;
 }
+
+
+
+
+
+
+/* for easyops-cn search bar */
+
+:root {
+  --search-local-modal-width: 480px !important;
+  --search-local-highlight-color: #5468ff !important;
+  --search-local-hit-color: #000 !important;
+  --search-local-modal-background: #fff !important;
+  --search-local-hit-background: #fff !important;
+  --search-local-hit-height: 56px !important;
+  --search-local-muted-color: #000 !important;
+}
+
+html[data-theme="dark"] {
+  --search-local-highlight-color: #d23669;
+}
+
+/* for easyops-cn search bar */
+
