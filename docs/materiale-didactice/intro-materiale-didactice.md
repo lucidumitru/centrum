@@ -19,6 +19,8 @@ import Video from '@site/src/components/Video'
 ***Ce vă oferă Centrum ?***
 
 
+AAAA
+
 
 <Img className="img-responsive4" src="materiale-didactice/materiale-didactice-poza1-centrum_v2.png" width="1000" height="667" lazy={false} />
 
