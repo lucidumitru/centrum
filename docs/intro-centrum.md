@@ -10,10 +10,14 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
+♬
+
+🤔 ***Oare ce găsesc în Centrum Info?***
+
 
 <div class="alert alert--warning" role="alert">
 
-🤔 ***Oare ce găsesc în Centrum Info?***
+
 
 
 <Img className="img-responsive4" src="materiale-didactice/materiale-didactice-poza1-centrum_v2.png" width="1000" height="667" lazy={false} />

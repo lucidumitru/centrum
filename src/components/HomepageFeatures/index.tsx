@@ -49,6 +49,7 @@ function Feature({title, Svg, description}: FeatureItem) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
+        <h2 style={{fontSize: 20}}>Centrum vă oferă:</h2>
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>

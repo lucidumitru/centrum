@@ -88,6 +88,14 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+/*          cacheTime: 600 * 1000, // 600 sec - cache purge period */
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
+
+
+
       } satisfies Preset.Options,
     ],
   ],
@@ -128,8 +136,6 @@ const config: Config = {
           label: 'Magazin Online',
           position: 'right',
         },
-
-
 
       ],
     },
