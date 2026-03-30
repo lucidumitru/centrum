@@ -17,6 +17,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -24,6 +25,17 @@ function HomepageHeader() {
             Vezi oferta Centrum Info
           </Link>
         </div>
+
+        <br></br>
+
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/truse-de-experimente/intro-truse-de-experimente">
+            Alege Trusa de experimente
+          </Link>
+        </div>
+
       </div>
     </header>
   );
