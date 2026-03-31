@@ -21,21 +21,10 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro-centrum">
-            Vezi oferta Centrum Info
+            to="/docs/produse-centrum">
+            Vezi oferta Centrum
           </Link>
         </div>
-
-        <br></br>
-
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/truse-de-experimente/intro-truse-de-experimente">
-            Alege Trusa de experimente
-          </Link>
-        </div>
-
       </div>
     </header>
   );
