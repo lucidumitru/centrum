@@ -127,9 +127,9 @@ const config: Config = {
         {to: '/blog', label: 'Blog', position: 'left'},
 
 */
-        {to: '/docs/invatamant-primar/produse-centrum-pentru-invatamant-primar', label: 'Învățământ primar', position: 'left'},
-        {to: '/docs/gimnaziu/produse-centrum-pentru-gimnaziu', label: 'Gimnaziu', position: 'left'},
-        {to: '/docs/liceu/produse-centrum-pentru-liceu', label: 'Liceu', position: 'left'},
+        {to: '/docs/invatamant-primar/produse-centrum-invatamant-primar', label: 'Învățământ primar', position: 'left'},
+        {to: '/docs/invatamant-gimnazial/produse-centrum-invatamant-gimnazial', label: 'Învățământ gimnazial', position: 'left'},
+        {to: '/docs/invatamant-liceal/produse-centrum-invatamant-liceal', label: 'Învățământ Liceal', position: 'left'},
 
         {
           href: 'https://www.drugon.ro',
