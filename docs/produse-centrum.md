@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Centrum Info
+# Bine ai venit în "Centrum Info"
 
 
 
@@ -10,14 +10,10 @@ import Img from '@site/src/components/Img'
 import Video from '@site/src/components/Video'
 
 
-♬
-
-🤔 ***Oare ce găsesc în Centrum Info?***
+<div class="alert alert--success" role="alert">
 
 
-<div class="alert alert--warning" role="alert">
-
-
+👀 ***Ce găsești în Centrum Info?***
 
 
 <Img className="img-responsive4" src="materiale-didactice/materiale-didactice-poza1-centrum_v2.png" width="1000" height="667" lazy={false} />
@@ -27,93 +23,27 @@ import Video from '@site/src/components/Video'
 
 
 
-
-<Video src="https://www.youtube.com/embed/LBAQ6IyQGHY" lazy={false} />
-
-
-
-[***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
-
-[***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
-
-
-[***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
-
-
-
-</div>
+**Materiale didactice, truse de experimente, birotică și papetărie pentru:**
 
 
 
 
-<br></br>
+[***Învățământ antepreșcolar***](/docs/invatamant-anteprescolar/produse-centrum-invatamant-anteprescolar)
 
 
-<div class="alert alert--info" role="alert">
+[***Învățământ preșcolar***](/docs/invatamant-prescolar/produse-centrum-invatamant-prescolar)
 
 
-🤠 ***Oare ce găsesc în Centrum Info?***
+[***Învățământ primar***](/docs/invatamant-primar/produse-centrum-invatamant-primar)
 
 
-🎻 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
-
-📝 [***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
+[***Învățământ gimnazial***](/docs/invatamant-gimnazial/produse-centrum-invatamant-gimnazial)
 
 
-🔥 [***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+[***Învățământ liceal***](/docs/invatamant-liceal/produse-centrum-invatamant-liceal)
 
 
-
-</div>
-
-
-
-
-<br></br>
-
-
-
-
-<div class="alert alert--danger" role="alert">
-
-
-🔥 ***Oare ce găsesc în Centrum Info?***
-
-
-🎻 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
-
-📝 [***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
-
-
-📚 [***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
-
-
-
-
-
-
-</div>
-
-
-
-<br></br>
-
-
-
-
-
-<div class="alert alert--success" role="alert">
-
-
-👀 ***Oare ce găsesc în Centrum Info?***
-
-
-🎻 [***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
-
-📝 [***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
-
-
-🔥 [***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+[***Învățământ universitar***](/docs/invatamant-universitar/produse-centrum-invatamant-universitar)
 
 
 
@@ -131,7 +61,7 @@ import Video from '@site/src/components/Video'
 
 🔦 **Observație**
 
-După ce te vei familiariza cu produsele noastre, poți merge la magazinul nostru online [***eCentrum***](https://drugon.ro/) să le achiziționezi!
+După ce te vei decide asupra produsului dorit, [***eCentrum***](https://drugon.ro/) te așteaptă să îl achiziționezi!
 
 
 </div>
@@ -167,13 +97,7 @@ După ce te vei familiariza cu produsele noastre, poți merge la magazinul nostr
   <summary>**Detalii tehnice Centrum:**</summary>
   <div>
 
-
-[***Materiale didactice***](/docs/materiale-didactice/intro-materiale-didactice)
-
-[***Birotică și papetărie***](/docs/birotica-si-papetarie/intro-birotica-si-papetarie)
-
-
-[***Truse de experimente***](/docs/truse-de-experimente/intro-truse-de-experimente)
+Bine ai venit la Centrum Info!
 
 
 
@@ -185,19 +109,6 @@ După ce te vei familiariza cu produsele noastre, poți merge la magazinul nostr
 
 
 
-<details>
-  <summary>Toggle me!</summary>
-  <div>
-    <div>This is the detailed content</div>
-    <br/>
-    <details>
-      <summary>
-        Nested toggle! Some surprise inside...
-      </summary>
-      <div>😲😲😲😲😲</div>
-    </details>
-  </div>
-</details>
 
 
 
