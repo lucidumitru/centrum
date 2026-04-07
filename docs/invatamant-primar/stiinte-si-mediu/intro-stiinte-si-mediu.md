@@ -1,0 +1,29 @@
+---
+sidebar_position: 1
+---
+
+# Intro - Științe și mediu
+
+
+
+import Img from '@site/src/components/Img'
+import Video from '@site/src/components/Video'
+
+
+
+
+
+<div class="alert alert--success" role="alert">
+
+
+👀 ***Intro - Științe și mediu***
+
+
+[***Planșe***](/docs/invatamant-primar/stiinte-si-mediu/planse/produs1)
+
+
+[***Jocuri stem***](/docs/invatamant-primar/stiinte-si-mediu/jocuri-stem/produs1)
+
+
+
+</div>

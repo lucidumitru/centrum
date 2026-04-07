@@ -18,9 +18,27 @@ import Video from '@site/src/components/Video'
 👀 ***Produse Centrum - Învățământ primar***
 
 
+[***Limbaj și comunicare în societate***](/docs/invatamant-primar/limbaj-si-comunicare-in-societate/intro-limbaj-si-comunicare-in-societate)
 
-🚧 ***In construction***
 
+[***Matematică***](/docs/invatamant-primar/matematica/intro-matematica)
+
+
+[***Științe și mediu***](/docs/invatamant-primar/stiinte-si-mediu/intro-stiinte-si-mediu)
+
+
+[***Arte***](/docs/invatamant-primar/arte/intro-arte)
+
+
+[***Jucării***](/docs/invatamant-primar/jucarii/intro-jucarii)
+
+
+
+[***Mobilier***](/docs/invatamant-primar/mobilier/intro-mobilier)
+
+
+
+[***Softuri***](/docs/invatamant-primar/softuri/intro-softuri)
 
 
 
