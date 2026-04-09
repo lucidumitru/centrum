@@ -13,10 +13,7 @@ import Video from '@site/src/components/Video'
 
 
 
-<div class="alert alert--success" role="alert">
-
-
-👀 ***Planșe - Produs1***
+:::tip[Planșe - Produs1]
 
 
 
@@ -24,5 +21,6 @@ import Video from '@site/src/components/Video'
 
 
 
+:::
 
-</div>
+
