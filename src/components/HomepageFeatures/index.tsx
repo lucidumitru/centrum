@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Magazin Online',
-    Svg: require('@site/static/img//centrum_logo_svg_final.svg').default,
+    Svg: require('@site/static/img//centrum_logo_svg_final_vers2.svg').default,
     description: (
       <>
         Materiale didactice pentru preșcolari, școala primară,

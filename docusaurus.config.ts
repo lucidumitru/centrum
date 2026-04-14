@@ -113,7 +113,7 @@ const config: Config = {
       logo: {
         alt: 'My Site Logo',
 /*        src: 'img/logo.svg', */
-          src: 'img/centrum_logo_svg_final.svg',
+          src: 'img/centrum_logo_svg_final_vers2.svg',
             width: 50,
             height: 50,
       },
